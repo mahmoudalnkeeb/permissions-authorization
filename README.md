@@ -1,4 +1,4 @@
-# endpoint permissions based access
+# endpoint permissions based authorization
 
 This simple API serves as an illustrative example of how to establish accessibility to a specific endpoint through the implementation of permission-based authorization, enabling user authorization based on the fulfillment of any one of these permissions.
 
